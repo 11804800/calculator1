@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/calculator1/static/css/main.2894488c.css",
-    "main.js": "/calculator1/static/js/main.4143e6b7.js",
+    "main.css": "/calculator1/static/css/main.a88b6e83.css",
+    "main.js": "/calculator1/static/js/main.c7c36032.js",
     "static/js/787.a174f9e5.chunk.js": "/calculator1/static/js/787.a174f9e5.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/calculator1/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/calculator1/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -9,12 +9,12 @@
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/calculator1/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/calculator1/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/calculator1/index.html",
-    "main.2894488c.css.map": "/calculator1/static/css/main.2894488c.css.map",
-    "main.4143e6b7.js.map": "/calculator1/static/js/main.4143e6b7.js.map",
+    "main.a88b6e83.css.map": "/calculator1/static/css/main.a88b6e83.css.map",
+    "main.c7c36032.js.map": "/calculator1/static/js/main.c7c36032.js.map",
     "787.a174f9e5.chunk.js.map": "/calculator1/static/js/787.a174f9e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2894488c.css",
-    "static/js/main.4143e6b7.js"
+    "static/css/main.a88b6e83.css",
+    "static/js/main.c7c36032.js"
   ]
 }
