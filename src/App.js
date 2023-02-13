@@ -31,8 +31,8 @@ function App() {
         :<span className='fa fa-moon-o' onClick={changebg}></span>
 }
       </div>
-      <div className='calci p-5'>
-            <form className='pb-3'>
+      <div className='calci'>
+            <form className='p-3'>
               <input type="text" value={Total} style={{ background: "rgb(0,0,0)", color: "white" }} />
             </form>
             <div className='keypad' style={{background:bg ? "rgb(208, 204, 203)":"rgb(34, 44, 67)"}}>
